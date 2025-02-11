@@ -1,0 +1,31 @@
+.find-service {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .service-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .service-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 250px;
+  }
+  
+  .service-card h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .service-card p {
+    font-size: 16px;
+    color: #555;
+  }
+  

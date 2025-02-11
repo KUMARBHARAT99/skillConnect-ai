@@ -1,0 +1,85 @@
+/* Profile Container */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #6aa9f7; /* Light blue background */
+}
+
+/* Profile Card */
+.profile-card {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;  /* Fixed width for better alignment */
+  text-align: center;
+}
+
+/* Profile Picture */
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+/* Input Fields */
+.profile-card input {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Buttons */
+.save-btn, .back-btn, .green-innovation-btn {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Save Button */
+.save-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Back Button */
+.back-btn {
+  background-color: #333;
+  color: white;
+}
+
+/* Green Innovation Button */
+.green-innovation-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+/* Hover Effects */
+.save-btn:hover {
+  background-color: #0056b3;
+}
+.back-btn:hover {
+  background-color: #555;
+}
+.green-innovation-btn:hover {
+  background-color: #218838;
+}
+
+  
+  
+  

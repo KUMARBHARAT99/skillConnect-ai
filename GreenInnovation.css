@@ -1,0 +1,28 @@
+.green-innovation-container {
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f8ff;
+}
+
+.green-innovation-title {
+  font-size: 24px;
+  color: green;
+}
+
+.green-innovation-content {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.green-innovation-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.green-innovation-button:hover {
+  background-color: #218838;
+}

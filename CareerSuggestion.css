@@ -1,0 +1,23 @@
+.career-container {
+    background: #da81bf;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .career-container h2 {
+    color: #333;
+  }
+  
+  .career-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .career-container li {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
